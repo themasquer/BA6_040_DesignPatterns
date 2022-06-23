@@ -1,0 +1,10 @@
+﻿Mediator Pattern (Aracı Desen):
+
+Bu desen üretilen nesne ile nesnenin türevleri arasındaki karmaşık ilişkiyi çözümleye yaramaktadır. Yani nesnelerin birbirleriyle nasıl iletişime ve etkileşime gireceğini tanımlamaktadır. 
+Bu desende ana mekanizma meslektaş (colleague) nesneler arasında gevşek bağlantı (loose coupling) temin etmektir. Yani meslektaşlar kendi aralarında değil bir aracı sınıf üzerinden 
+iletişime geçmelidir.
+
+Bu desene verilebilecek en güzel örnek uçakların sadece hava limanlarındaki kontrol merkezi ile iletişime geçmesidir. Piste iniş yapacak ya da kalkış yapacak uçakların birbirleriyle 
+iletişime geçmesi söz konusu değildir. Hava limanındaki tüm trafiği kontrol kulesi idare eder. Bu örnekte uçaklar bu desendeki colleague olarak düşünülür, mediator nesnesi ise kuledir. 
+
+CQRS (Command Query Responsibility Segregation) içerisinde sıklıkla kullanıldığından günümüzde çok önemli bir desen haline gelmiştir.

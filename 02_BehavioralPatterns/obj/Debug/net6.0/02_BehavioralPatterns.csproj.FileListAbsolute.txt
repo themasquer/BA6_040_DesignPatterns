@@ -1,0 +1,15 @@
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\bin\Debug\net6.0\02_BehavioralPatterns.exe
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\bin\Debug\net6.0\02_BehavioralPatterns.deps.json
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\bin\Debug\net6.0\02_BehavioralPatterns.runtimeconfig.json
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\bin\Debug\net6.0\02_BehavioralPatterns.dll
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\bin\Debug\net6.0\02_BehavioralPatterns.pdb
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\obj\Debug\net6.0\02_BehavioralPatterns.csproj.AssemblyReference.cache
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\obj\Debug\net6.0\02_BehavioralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\obj\Debug\net6.0\02_BehavioralPatterns.AssemblyInfoInputs.cache
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\obj\Debug\net6.0\02_BehavioralPatterns.AssemblyInfo.cs
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\obj\Debug\net6.0\02_BehavioralPatterns.csproj.CoreCompileInputs.cache
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\obj\Debug\net6.0\02_BehavioralPatterns.dll
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\obj\Debug\net6.0\refint\02_BehavioralPatterns.dll
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\obj\Debug\net6.0\02_BehavioralPatterns.pdb
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\obj\Debug\net6.0\02_BehavioralPatterns.genruntimeconfig.cache
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\02_BehavioralPatterns\obj\Debug\net6.0\ref\02_BehavioralPatterns.dll

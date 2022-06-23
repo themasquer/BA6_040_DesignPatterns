@@ -1,0 +1,15 @@
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\bin\Debug\net6.0\01_CreationalPatterns.exe
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\bin\Debug\net6.0\01_CreationalPatterns.deps.json
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\bin\Debug\net6.0\01_CreationalPatterns.runtimeconfig.json
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\bin\Debug\net6.0\01_CreationalPatterns.dll
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\bin\Debug\net6.0\01_CreationalPatterns.pdb
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\obj\Debug\net6.0\01_CreationalPatterns.csproj.AssemblyReference.cache
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\obj\Debug\net6.0\01_CreationalPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\obj\Debug\net6.0\01_CreationalPatterns.AssemblyInfoInputs.cache
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\obj\Debug\net6.0\01_CreationalPatterns.AssemblyInfo.cs
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\obj\Debug\net6.0\01_CreationalPatterns.csproj.CoreCompileInputs.cache
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\obj\Debug\net6.0\01_CreationalPatterns.dll
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\obj\Debug\net6.0\refint\01_CreationalPatterns.dll
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\obj\Debug\net6.0\01_CreationalPatterns.pdb
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\obj\Debug\net6.0\01_CreationalPatterns.genruntimeconfig.cache
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\01_CreationalPatterns\obj\Debug\net6.0\ref\01_CreationalPatterns.dll

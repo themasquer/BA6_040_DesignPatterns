@@ -1,0 +1,28 @@
+﻿Chain of Responsibility Pattern:
+
+Bu davranışsal tasarım deseni yazılım geliştirme şeklimizi büyük ölçüde değiştirecektir, bu nedenle oluşturduğumuz her tür uygulamada yararlanabileceğimiz güzel bir desendir. 
+Sorumluluk zinciri deseni için belirli uygulama detaylarına bakmadan önce özellikler hakkında konuşulmalıdır. Bu desenin genellikle üç farklı bileşeni bulunmaktadır. 
+Bir göndericimiz (sender), bir alıcımız (receiver) ve bir de zincir boyunca çalışan işleyicimiz (handler) bulunmaktadır. 
+Bu desen gelen bir isteği işlemeye (handle etmek) ya da oluşturulan sorumluluk zincirinde bir sonraki handler'a devretmeye dayanan bir prensibi barındırmaktadır. 
+
+Bu desenin çalışma şekli şöyledir: 
+İlk önce bir sorumluluk zinciri kurulur, 
+bu sorumluluk zincirinin her bir halkasının üzerine atanmış gelen isteği handle etme kapasitesi bulunmaktadır, 
+gelen istekleri kaşılayan bir handler isteği yerine getirecek yetki ve donanıma sahip değilse bir sonraki handler ya da successor'a devreder 
+ve gelen istek handle edilene kadar dolaşır.
+
+Somut bir örnek vermek gerekirse: 
+Bir bankaya 1 milyon TL kredi çekmek için giden müşteriyi ilk önce gişe görevlisi karşılar, 
+gişe görevlisinin 1 - 100 bin TL'lik kredileri onaylama yani bu istekleri handle etme yetkisi ve donanımı olduğunu varsayalım, 
+gelen talebi düşündüğümüzde handle edemeyecektir, 
+bu durumda bir sonraki handler'a yani senaryomuzda birim müdürüne isteği gönderir, 
+istenen kredi birim müdürünün de handle edemeyeceği bir değer ise şube müdürüne,
+eğer şube müdürünün de handle edemeyeceği bir değer ise merkeze gönderilir. 
+Bu örnekte gişe memuru -> birim müdürü -> şube müdürü -> merkez ile bir sorumluluk zinciri oluştururak istekleri handle edebiliriz. 
+Böylelikle yetkilerine göre gelen istekleri handle edebilirler.
+
+Sorumluluk zincirinde handler'lar zincirimize eklediğimiz farklı handler'lardan bir veya daha fazlasını yürütmemize izin verir. 
+Alıcı istek üzerinde hareket edip edemeyeceğimizi içeren bir mantık mekanizmasına sahiptir. 
+Gönderenin uygulama hakkında bilgi sahibi olması gerekmez, handler içerisindeki işten habersiz olabilir.
+
+ASP.NET Core içerisindeki pipe-line bu desen mantığında çalışmaktadır.

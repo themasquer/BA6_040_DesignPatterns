@@ -1,0 +1,15 @@
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\bin\Debug\net6.0\03_StructuralPatterns.exe
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\bin\Debug\net6.0\03_StructuralPatterns.deps.json
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\bin\Debug\net6.0\03_StructuralPatterns.runtimeconfig.json
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\bin\Debug\net6.0\03_StructuralPatterns.dll
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\bin\Debug\net6.0\03_StructuralPatterns.pdb
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\obj\Debug\net6.0\03_StructuralPatterns.csproj.AssemblyReference.cache
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\obj\Debug\net6.0\03_StructuralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\obj\Debug\net6.0\03_StructuralPatterns.AssemblyInfoInputs.cache
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\obj\Debug\net6.0\03_StructuralPatterns.AssemblyInfo.cs
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\obj\Debug\net6.0\03_StructuralPatterns.csproj.CoreCompileInputs.cache
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\obj\Debug\net6.0\03_StructuralPatterns.dll
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\obj\Debug\net6.0\refint\03_StructuralPatterns.dll
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\obj\Debug\net6.0\03_StructuralPatterns.pdb
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\obj\Debug\net6.0\03_StructuralPatterns.genruntimeconfig.cache
+D:\BilgeAdam\MyLectures\7) Design Patterns\040_DesignPatterns\03_StructuralPatterns\obj\Debug\net6.0\ref\03_StructuralPatterns.dll

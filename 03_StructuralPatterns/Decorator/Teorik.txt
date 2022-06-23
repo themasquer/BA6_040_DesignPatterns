@@ -1,0 +1,11 @@
+﻿Decorator Pattern:
+
+Bu desen belli bir sınıfta değişiklik yapmadan ilgili sınıfa dinamik olarak yeni bir özellik veya davranış eklememize izin vermektedir.
+Ayrıca ilgili sınıf için özellik ve davranış modifikasyonlarında da esneklik kazandırır.
+
+Öncelikle elimizde yeni bir davranış ya da özellik ekleyeceğimiz ham bir sınıf olmalıdır. Daha sonra bu sınıftan miras alan yeni bir dekoratör sınıfı eklenerek 
+elimizdeki sınıfa dekoratör sınıfı üzerinden yeni özellik veya davranışlar kazandırılabilir.
+
+Bu desende önemli olan modifiye edilmek istenen ham sınıfa dokunulmamalıdır. Değişiklikler dekoratör sınıfı üzerinden gerçekleştirilmelidir.
+
+İhtiyaç durumunda aynı ham sınıftan miras alan birden çok dekoratör sınıfı oluşturulabilir.

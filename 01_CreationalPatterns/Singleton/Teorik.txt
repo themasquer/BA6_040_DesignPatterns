@@ -1,0 +1,19 @@
+﻿Singleton Pattern:
+
+Bir uygulama boyunca bir sınıftan tek bir obje yaratılmasını ve bunun kullanılmasını sağlar.
+Obje constructor üzerinden değil sınıf içerisindeki bir method üzerinden eğer yoksa statik olarak oluşturulup dönülür, varsa statik olarak tanımlanmış mevcut obje dönülür.
+Böylece uygulama boyunca ihtiyaç duyulan yerde objenin methodu çağrılarak tek bir obje kullanılmış olunur.
+
+Deseni uygulamak için sınıf oluşturulur, içerisine private static sınıf tipinde bir değişken tanımlanır, private parametresiz constructor oluşturulur, son olarak da 
+tanımlanan değişken üzerinden objenin null olup olmamasına göre değişkenin refere ettiği objeyi geri dönen bir method yazılır. Sonrasında ihtiyaç duyulan methodlar 
+public olarak sınıfa eklenebilir.
+
+Genelde Singleton bir sınıf özellikle web uygulamalarında içerisinde veri taşımamalıdır çünkü tüm uygulama tarafından bu sınıftan türeyen obje tek olup kullanılacağından 
+özellikle web uygulamaları gibi çok kullanıcılı uygulamalarda taşınan veri tüm kullanıcıları etkileyecektir. Bu yüzden veri olarak sadece tüm uygulamada geçerli olacak 
+(örneğin uygulamanın ayarları) verileri taşımak mantıklı olacaktır.
+
+Singleton objeler içerisinde static barındırdıklarından stack memory'de saklanırlar ve uygulama çalıştığı sürece tutulurlar. İlk ihtiyaç duyulduğunda bir kez obje oluşturulur 
+ve hep bu obje kullanılır.
+
+Singleton bir anti pattern'dir. Nedeni sınıflar arasında tight coupling bir ilişkiye sebebiyet vermesidir.
+Private constructor ve static yapıları yüzünden Dependency Injection'a uygun değildir.
